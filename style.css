@@ -1,6 +1,6 @@
 button {
   background: orange;
-  border: 3 solid darkgreen;
+  border: 3px solid darkgreen;
   font-weight: bold;
   padding: 4px 8px;
   border-radius: 8px;
